@@ -14,3 +14,4 @@ Lista de proyectos
 |http://casinolife.com.mx/| No esta instalado el certificado SSL |
 |http://mujeresdeexito.com.mx/|No esta instalado el certificado SSL |
 |http://www.industriasman.mx/|No esta instalado el certificado SSL|
+|http://www.maquilandoelacero.com/|No tiene instalado el certificado SSL, posible rediseño de la página|
