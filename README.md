@@ -12,6 +12,7 @@ Lista de proyectos
 | https://www.universoelectronico.com.mx/ | Expira el 24/05/20 |
 | https://www.incubo-inflables.com/ | Expira el 12/4/2020 |
 |http://casinolife.com.mx/| No esta instalado el certificado SSL |
+|http://mujeresdeexito.com.mx/|No esta instalado el certificado SSL |
 
 
 
