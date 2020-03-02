@@ -15,3 +15,5 @@ Lista de proyectos
 |http://mujeresdeexito.com.mx/|No esta instalado el certificado SSL |
 |http://www.industriasman.mx/|No esta instalado el certificado SSL|
 |http://www.maquilandoelacero.com/|No tiene instalado el certificado SSL, posible rediseño de la página|
+|http://www.posadas.com/es/home/| No tiene instalado el certificaso SSL|
+|http://www.syscom.com/| No tiene instalado el certificado SSL|
